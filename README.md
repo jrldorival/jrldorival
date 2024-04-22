@@ -18,7 +18,7 @@
  -->
  
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=100&color=2CF7B8&vCenter=true&random=false&width=435&lines=Ol%C3%A1..;Bem+vindo+ao+meu+perfil+do+GitHub" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=1DF78F&vCenter=true&random=false&width=450&lines=Ol%C3%A1...;Bem+vindo+ao+meu+perfil+GitHub" alt="Typing SVG" />
 </h1>
 
 
