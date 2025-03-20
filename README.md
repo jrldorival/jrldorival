@@ -38,6 +38,7 @@
 </picture>
 </div>
 
+<!--
 <div align="center" >
   <picture>
   <source
@@ -51,7 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jrldorival&show_icons=true" />
 </picture>
 </div>
-
+ -->
 
 <div  align="center" >
   - 
