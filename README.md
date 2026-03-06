@@ -25,6 +25,7 @@
 <h2 align="center" >⚡Stats⚡</h2>
 <br>
 <div align="center" >
+  <!--
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=jrldorival&show_icons=true&theme=merko"
@@ -38,7 +39,7 @@
 </picture>
 </div>
 
-<!--
+
 <div align="center" >
   <picture>
   <source
